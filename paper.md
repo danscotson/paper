@@ -28,3 +28,7 @@ The model is detailed in Smith et al 2002.
 #Results
 
 The simulations indicate that XRD diffraction shows two phases.
+
+# Figures
+
+Figures go in their own section in a draft paper.
