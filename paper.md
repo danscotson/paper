@@ -24,3 +24,7 @@ We simulate the evolution of coating phases with X-ray diffraction.
 
 We compared our measurements of XRD diffraction with a model.
 The model is detailed in Smith et al 2002.
+
+#Conclusions
+
+I am satisfied with this work.
