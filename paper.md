@@ -1,7 +1,7 @@
 
 # Title
 
-XRD measurements and simulations of ceramic coatings are useful for jet engines. They allow higher temperatures for the jet engine.
+XRD measurements and simulations of ceramic coatings are useful for jet engines. They allow higher temperatures for the jet engine and can therefore deal with the British summer better.
 
 # Author
 Charlie Smith
@@ -9,7 +9,7 @@ Dan Scotson
 Rory Atlasi-Barker
 
 #Introduction
-We investigated ceramic coatings.
+We investigated ceramic coatings. Coating ceramics is very important because you don't want boring tea cups.
 
 Coatings were measured with X-ray diffraction.
 
