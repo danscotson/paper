@@ -10,3 +10,5 @@ Dan Scotson
 We investigated ceramic coatings.
 
 Coatings were measured with X-ray diffraction.
+
+Jones et al (1998) conducted several studies on this topic but X-ray diffraction was not previously used.
