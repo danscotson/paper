@@ -8,3 +8,5 @@ Dan Scotson
 
 #Introduction
 We investigated ceramic coatings.
+
+Coatings were measured with X-ray diffraction.
