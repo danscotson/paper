@@ -19,3 +19,8 @@ A large uncertainty in modelling the behaviour of high temperature properties of
 #Simulations
 
 We simulate the evolution of coating phases with X-ray diffraction.
+
+#Methodology
+
+We compared our measurements of XRD diffraction with a model.
+The model is detailed in Smith et al 2002.

@@ -1,3 +1,5 @@
 Blogg et al 2004, Describe X-ray diffraction.
 
 Jones et al 1998, Previous studies.
+
+Smith et al 2002, Modelling study.
