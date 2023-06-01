@@ -15,3 +15,7 @@ Coatings were measured with X-ray diffraction.
 Jones et al (1998) conducted several studies on this topic but X-ray diffraction was not previously used.
 
 A large uncertainty in modelling the behaviour of high temperature properties of the jet engine led to this work.
+
+#Simulations
+
+We simulate the evolution of coating phases with X-ray diffraction.
